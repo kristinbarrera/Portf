@@ -95,7 +95,7 @@
     .sol-titulo{
         display: flex;
         justify-content: center;
-        font-size: 48px;
+        font-size: 32px;
        
     }
     .solucion-item{
@@ -118,10 +118,15 @@
         display: flex;
         text-align: center;
         justify-content: center;
+        font-size: 16px;
     }
     .CrearSoluciones{
         width: 70%;
         margin-left: 15%;
         margin-right: 15%;
+    }
+
+    .titulo-sol{
+        font-size: 24px;
     }
 }
