@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Portf/static/css/main.c0b11756.css",
+    "main.js": "/Portf/static/js/main.27b0672d.js",
+    "static/js/787.2dcca737.chunk.js": "/Portf/static/js/787.2dcca737.chunk.js",
+    "static/media/SF-Pro-Text-Bold.otf": "/Portf/static/media/SF-Pro-Text-Bold.9ef3e7915275d9c15bbb.otf",
+    "static/media/SF-Pro-Text-Heavy.otf": "/Portf/static/media/SF-Pro-Text-Heavy.8eb153241f2007c85305.otf",
+    "static/media/SF-Pro-Text-Regular.otf": "/Portf/static/media/SF-Pro-Text-Regular.6a39aa208dfcb99af10a.otf",
+    "static/media/surprise.png": "/Portf/static/media/surprise.a6fc1dea89bf8ba83f6d.png",
+    "static/media/blown.png": "/Portf/static/media/blown.b82ae63092749f34a452.png",
+    "static/media/upn.png": "/Portf/static/media/upn.090f180c10b810a18ef0.png",
+    "static/media/tinne.png": "/Portf/static/media/tinne.0bb0db6347bfdbfd9181.png",
+    "static/media/foto.png": "/Portf/static/media/foto.09758b8f483c130b0545.png",
+    "static/media/journal.png": "/Portf/static/media/journal.d230569dcae914a6b6cd.png",
+    "static/media/cyclism.png": "/Portf/static/media/cyclism.e9b47f1aa27fff0b315b.png",
+    "static/media/quiensoy.png": "/Portf/static/media/quiensoy.415527c3daf9b7444997.png",
+    "static/media/xd.svg": "/Portf/static/media/xd.cf3e8ca65f8ea49ef35063db8db8a809.svg",
+    "static/media/ps.svg": "/Portf/static/media/ps.5c7fb39e8d60bba7e3646c4ced7c792b.svg",
+    "static/media/ux.svg": "/Portf/static/media/ux.3d26f402ef96279ebccbe3da290d7721.svg",
+    "static/media/wspp.svg": "/Portf/static/media/wspp.0aed920f85ac0ffd9cfb71f467a1bd00.svg",
+    "static/media/ai.svg": "/Portf/static/media/ai.5b3aed0dbd74fa4fb329b5f33e85dde7.svg",
+    "static/media/figma.svg": "/Portf/static/media/figma.c8cc321889fc121916084b1e5299ab9f.svg",
+    "static/media/writting.svg": "/Portf/static/media/writting.3b819d4fa7c95e699078f967677486af.svg",
+    "static/media/app.svg": "/Portf/static/media/app.6be9b86b247018b7aeb1da6dd7e64eb0.svg",
+    "static/media/gmail.svg": "/Portf/static/media/gmail.7f427cfbf97f055c905803d2d22bdb49.svg",
+    "static/media/linked.svg": "/Portf/static/media/linked.fbbc1fde68a8268a9e0ba7eea70920ba.svg",
+    "static/media/web.svg": "/Portf/static/media/web.c78bd86ff5e18507e7b153788b0ed37f.svg",
+    "index.html": "/Portf/index.html",
+    "main.c0b11756.css.map": "/Portf/static/css/main.c0b11756.css.map",
+    "main.27b0672d.js.map": "/Portf/static/js/main.27b0672d.js.map",
+    "787.2dcca737.chunk.js.map": "/Portf/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0b11756.css",
+    "static/js/main.27b0672d.js"
+  ]
+}
